@@ -104,21 +104,20 @@
     
 	<!-- for iOS -->
 	<feature name="SocialSharing">
-	  <param name="ios-package" value="SocialSharing" />
+	  <param name="ios-package" value="SocialSharing"/>
 	</feature>
 	
 	<!-- for Android -->
 	<feature name="SocialSharing">
-	  <param name="android-package" value="nl.xservices.plugins.SocialSharing" />
+	  <param name="android-package" value="nl.xservices.plugins.SocialSharing"/>
 	</feature>
-	
 	
 	<!-- for Windows Phone -->
 	<feature name="SocialSharing">
 	  <param name="wp-package" value="SocialSharing"/>
 	</feature>
  	
-     <gap:plugin name="nl.x-services.plugins.socialsharing" />
+     <gap:plugin name="nl.x-services.plugins.socialsharing"/>
     
     <!-- Deprecated plugins element. Remove in 3.0 -->
     <plugins>
