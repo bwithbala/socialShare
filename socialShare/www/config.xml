@@ -102,10 +102,6 @@
       <param name="android-package" value="org.apache.cordova.InAppBrowser"/>
     </feature>
     
-     <feature name="SmsPlugin">
-      <param name="android-package" value="org.apache.cordova.plugin.SmsPlugin"/>
-    </feature>
-    
 	<!-- for iOS -->
 	<feature name="SocialSharing">
 	  <param name="ios-package" value="SocialSharing" />
