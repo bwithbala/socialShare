@@ -117,7 +117,7 @@
 	  <param name="wp-package" value="SocialSharing"/>
 	</feature>
 	
- 	<gap:plugin name="nl.x-services.plugins.socialsharing" />
+
 
     
 </widget>
