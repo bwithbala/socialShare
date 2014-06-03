@@ -119,7 +119,4 @@
  	
      <gap:plugin name="nl.x-services.plugins.socialsharing"/>
     
-    <!-- Deprecated plugins element. Remove in 3.0 -->
-    <plugins>
-    </plugins>
 </widget>
